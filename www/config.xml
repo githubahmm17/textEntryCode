@@ -6,7 +6,7 @@
         id        = "mob.app.dev.lifecycle"
         version   = "1.0.0">
 
-    <name>Worksheet 6</name>
+    <name>Worksheet 6 - textentry</name>
 
     <description>
         Input Modalities
